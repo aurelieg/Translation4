@@ -1,0 +1,47 @@
+  # CONTENTS
+  # - generic strings (models, actions), alphabetical
+  # - controller/action strings (including layouts), alphabetical
+
+en:
+  ###            GENERIC         ###
+  vat_not_included: VAT not included
+
+  actions:
+    accept: Accept
+    add_credit_card: "Add Credit Card"
+    are_you_sure: Are you sure?
+    back: Back
+    cancel: "Cancel"
+    confirm: Confirm
+    confirm_invoice: "Confirm payment by invoice"
+    confirm_order: "Confirm order"
+    done: Done
+    edit: Edit
+    hide: "Hide"
+    next: Next
+    no_pages_found: "No pages found"
+    reject: Reject
+    review: "Review"
+    save: Save
+    saving: Saving...
+    search: "Search"
+    sign_in: Log In
+    sign_me_up: "Sign me up!"
+    sign_out: Sign Out
+    sign_up: "Sign Up"
+    support: Support
+    too_many_pages: "Too many pages"
+    update: Update
+    update_credit_card: "Update Credit Card"
+
+  statuses:
+    processing_tasks:
+      one: "Processing 1 translation task"
+      other: "Processing %{count} translation tasks"
+
+  measurements:
+    new: "New words"
+    in_translation: "Words in translation"
+    client_review: "Words to be reviewed"
+    translated: "Translated words"
+
