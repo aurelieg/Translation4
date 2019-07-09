@@ -1,0 +1,39 @@
+---
+fr:
+  vat_not_included: TVA not included
+  actions:
+    accept: Accepter
+    add_credit_card: Ajouter une carte bancaire
+    are_you_sure: Are you sure?
+    back: Back
+    cancel: Cancel
+    confirm: Confirmer
+    confirm_invoice: Confirm payment by invoice
+    confirm_order: Confirm order
+    done: Done
+    edit: Edit
+    hide: Hide
+    next: Suivant
+    no_pages_found: No pages found
+    reject: Reject
+    review: Review
+    save: Save
+    saving: Saving...
+    search: Search
+    sign_in: Log In
+    sign_me_up: Sign me up!
+    sign_out: Sign Out
+    sign_up: Sign Up
+    support: Support
+    too_many_pages: Too many pages
+    update: M a j
+    update_credit_card: Update Credit Card
+  statuses:
+    processing_tasks:
+      one: Processing 1 translation task
+      other: Processing %{count} traduction tasks
+  measurements:
+    new: New words
+    in_translation: Words in traduction
+    client_review: Words to be reviewed
+    translated: Mots traduits
