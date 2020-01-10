@@ -1,8 +1,8 @@
 tolq_auto_client_review: false
 files:
-  - source_file: en_1_4.yml
-    source_language: en
+  - source_file: Aprende_a_combinar.html
+    source_language: es
     target_languages:
       - language: fr
-        target_file: fr_1_4.yml
-        quality: translation
+        target_file: Aprende_a_combinar_fr.html
+        quality: localization
